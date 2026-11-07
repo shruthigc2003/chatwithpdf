@@ -43,3 +43,4 @@ streamlit run app.py
 
 ## Author
 Shruthi, MSc Computer Science student, interested in AI
+   ![demo](demo.png)
